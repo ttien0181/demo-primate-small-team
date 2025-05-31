@@ -3,3 +3,5 @@
 test tuhoang
 
 test xung dot
+
+sửa readme .....
