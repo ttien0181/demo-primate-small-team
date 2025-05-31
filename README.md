@@ -2,4 +2,4 @@
 
 test tuhoang
 
-test 2 tuhoang
+test xung dot
